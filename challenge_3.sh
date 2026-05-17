@@ -1,1 +1,1 @@
-echo "Replace this line with your answer to Challenge #3"
+echo cp random.txt copy.txt
